@@ -1,0 +1,11 @@
+#WSQ03
+x=input("Dame un numero ")
+y=input("Dame el otro numero")
+s=int (x) + int (y)
+r=int (x) - int (y)
+d=int (x) / int (y)
+res=int (x) % int (y)
+print("El resultado de tu suma seria",s)
+print("El resultado de tu resta seria",r)
+print("El resultado de tu division seria",int(d))
+print("Tu residuo seria",res)
